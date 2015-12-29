@@ -1,11 +1,9 @@
-# gitodo
-A todo list base on markdown file.
+# Gitodo : Using git of a team's todo list.
 
-## Demo Project [持续更新]
+> A todo list base on markdown file.
 
-> This is a brief description for Project.
-
-##### Staff: @JobsLong
+##### Repository: JobsLong/gitodo
+##### Team: @JobsLong
 ##### Deadline: 2015-12-31
 
 ***
@@ -14,11 +12,6 @@ A todo list base on markdown file.
 
 * [DOING] `重要` 消息中心（已完成，未完成测试）@JobsLong
 * [NEXT] `BUG` 首页刷新问题 @JobsLong
-
-### Backend Server Develop
-
-* [√] API 后端接口出错
-  - [√] PUT /rooms/{room_id}/boxes/{box_id}
 
 ### Documents
 
@@ -32,5 +25,5 @@ A todo list base on markdown file.
 
 ### Project References
 
-* Project demo site: [http://example.com](http://example.com)
-* API Test Server site: [https://api.example.com](https://api.example.com)
+* Markdown basic: []()
+* Project demo site: [http://gitodo.com](http://gitodo.com)
