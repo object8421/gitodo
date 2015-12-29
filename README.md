@@ -23,7 +23,7 @@
 
 ### Documents
 
-* [ ] How to write `Gitodo` markdown file
+* [ ] `!!` How to write `Gitodo` markdown file
 * [ ] How to visit your task dashboard
 
 ### Deploy It!
@@ -38,3 +38,4 @@
 * Demo Site: https://gitodo.com
 * GitHub Flavored Markdown: https://help.github.com/articles/github-flavored-markdown
 * Writing On GitHub: https://help.github.com/articles/writing-on-github
+* Cmd Markdown Editor: https://www.zybuluo.com/mdeditor
