@@ -1,0 +1,22 @@
+body {
+  background-color: #EFEFF4;
+  padding: 10px;
+}
+
+#app {
+  margin-bottom: 40px;
+}
+
+#app > ul > li {
+  list-style: none;
+}
+
+.pinned.menu {
+  position: absolute;
+  top: -30px;
+  left: 0px;
+}
+
+h1 {
+  margin-top: 0px;
+}

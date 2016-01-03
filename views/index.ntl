@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Gitodo : Using git of a team's todo list.</title>
+    <link rel="stylesheet" href="/vendor/semantic/semantic.css">
+    <link rel="stylesheet" href="/css/app.css">
+  </head>
+  <body>
+    <div class="ui text bottom fixed menu">
+      <div class="ui container">
+        <a class="header item" href="https://github.com/JobsLong/gitodo">
+          <i class="checkmark box icon"></i> Gitodo.com
+        </a>
+      </div>
+    </div>
+
+    <div class="ui raised very padded text container segment" id="app">
+      <div class="ui text right floated pinned menu">
+        <a class="item" href="#edit">
+          <i class="edit icon"></i>
+          Edit
+        </a>
+        <a class="item" href="#statistics">
+          <i class="area chart icon"></i>
+          Statistics
+        </a>
+      </div>
+      #html#
+    </div>
+  </body>
+</html>
