@@ -37,6 +37,10 @@
 * [ ] DNS & Policy Correct
 * [ ] Site statistics & publish it! :)
 
+### Other
+
+* [ ] Set this project private.
+
 ### Project References
 
 1. Demo Site: https://gitodo.com
