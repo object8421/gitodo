@@ -9,6 +9,10 @@
 
 ***
 
+### Product Design
+
+* [ ] 思维导图
+
 ### Build Markdown File
 
 * [x] `!!` Finished the draft version for READ.MD file @JobsLong
@@ -39,6 +43,7 @@
 
 ### Other
 
+* [x] 域名备案 gitodo.com
 * [ ] Set this project private.
 
 ### Project References
