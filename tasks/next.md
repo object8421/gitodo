@@ -12,6 +12,19 @@
 * GPU text rendering http://wdobbie.com/post/gpu-text-rendering-with-vector-textures
   - 使用 GPU 进行文字渲染
 * Temple OS http://www.templeos.org
+* Watch deleted friends https://github.com/0x5e/wechat-deleted-friends
+  - 开源项目
+  - 查看删除自己的好友
+* 网易蜂巢 https://c.163.com
+ - 网易推出的 Docker 容器云，全 SSD，目前充值可得代金券
+
+### 比较看好的公司
+
+* 虎哥回收 http://www.hugehuge.cn
+  - 上门回收，明码标价，现金 + 价值 + 抽奖券
+  - 从家里到垃圾分解场，一站式解决
+* zuber-合租平台 http://www.zuber.im
+  - 致力于解决一线城市找合租室友麻烦的痛点
 
 ### 开发者工具
 
@@ -21,6 +34,11 @@
 * 安全
   * HelloSSL https://hellossl.net
     - 简单便捷，选择适合您的 SSL 证书
+* 测试
+  * 蒲公英 http://www.pgyer.com
+    - 应用内测专家
+  * Fir.im http://fir.im
+* SDK.cn
 
 ### 工具类应用
 
@@ -37,9 +55,22 @@
 * SearchKit http://www.searchkit.co
   - 提供简单的搜索引擎解决方案
   - 开源软件
-* Proud http://useproud.com/
+* Proud http://useproud.com
   - 以激励机制为出发点的 todo 应用
   - 网站设计的还不错
+* Mejiro http://dmpop.github.io/mejiro
+  - 自己托管的开源图片托管工具
+* BitBar
+  - 将任意脚本的输出显示到 OS X 的菜单栏里
+* Pleasantfish https://pleasantfish.com
+  - 收集同事反馈的平台
+* Alertover https://www.alertover.com
+  - 免费好用的团队消息中心
+
+### 企业级应用
+
+* Forms https://www.sonadier.com
+  - 适合企业使用的拖拽管理数据库
 
 ### 互联网自由
 
@@ -64,11 +95,15 @@
 * Snow ： Selfie, Motion sticker, Fun camera  https://snow.me
   - 自拍神器
   - 比较好玩的相机
+* 鬼畜输入法
+  - 挺好玩的
+  - 有可能成为今年的现象级产品
 
 
 ### 媒体
 
-
+* Top http://topnotifier.com
+  -  每天通知你 10 个最热门的科技新闻
 
 ### 辅助设计
 
@@ -83,6 +118,9 @@
   - 买到适合自己的衣服，身材相似的模特
 * 蜜意 👗 http://www.miyifashion.com/
   - 帮女生指导穿衣搭配的社区，形象管理助手
+* 叁意 🌺 http://www.threelflowers.com
+  - 不失为一个买花的一个方式
+  - 一个基于官网和微商形成的鲜花品牌，一周一束鲜花创意，当日预订，次日送达
 
 ### 体育
 
@@ -101,9 +139,20 @@
   - 可以漂浮在空中的滑板
   - 不知道实际效果如何
   - 介绍视频超级赞，可以看看 https://vimeo.com/149930274
+* Fitbit Blaze https://www.fitbit.com
+  - 手环界一哥
+  - Fitbit 全新智能手表，彩色表盘，5 天续航，可更换表带，整合 FitStar 等应用
+* It Bed 智能床 http://itbed.sleepnumber.com
+  - 更好的睡眠监测
+  - 智能调节床垫硬度
+
+### 独立开发者
+
+* huangzuo.wordpress.com
 
 ### Next References
 
 1. 36kr Next: http://next.36kr.com
 2. Hacker News: https://news.ycombinator.com
 3. Startup News: http://news.dbanotes.net
+4. Product Hunt: https://www.producthunt.com

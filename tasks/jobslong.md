@@ -28,6 +28,8 @@
 
 ### 技术
 
+* [ ] Docker 入门课程
+  - 入门课程 http://www.kaikeba.com/kkb/kaikeba/content_video.html?vId=2720#rd
 * [ ] 前端开发
 * [ ] node.js & javascript 开发
 * [ ] iOS 移动端开发
