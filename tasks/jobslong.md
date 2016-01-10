@@ -49,6 +49,32 @@
 * [x] 毕业实习
   * 跟随重修课程选课
 * [ ] 毕业论文
+  * A Naive Bayesian Classifier in Python
+    * Train
+    * Classifier
+  * 论文目的
+    - 为每篇论文按照如下规则分类
+    - 根据“3D 打印”技术领域的产业报告 wohlers
+    - 为这些论文添加对应的类似专利的IPC分类号字段
+  * 分类标准：
+    - 工艺（Process）7
+      - Material Extrusion
+      - Material Jetting
+      - Binder Jetting
+      - Vat photopoly-merization
+      - Sheet lamination
+      - Powder bed fusion
+      - Directed energy deposition
+    - 抛光（Post-process）
+    - 材料（Material）三大类 8
+      - Polymers, polymer blends
+      - Composites
+      - Metals
+      - Graded/hypid Metals
+      - Ceramics
+      - Investment casting patterns
+      - Sand molds and cores
+      - Paper
 * [-] 驾校考试
   * [x] 科目二
   * [-] 科目三
