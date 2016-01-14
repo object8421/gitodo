@@ -34,7 +34,11 @@
 * [ ] node.js & javascript 开发
 * [ ] iOS 移动端开发
 * [ ] python 学习
-   * [-] Learn python the hard way
+   * [x] Learn python the hard way
+   * [-] Python 进阶
+    - 如何像 Python 高手一样编程
+    - Python 相关的书籍
+    - LearnPythonTheHardWay 的下一步推荐 [Link](http://learnpythonthehardway.org/book/next.html)
 * [ ] Lisp for Web & Common Lisp
 
 ### 投资
@@ -48,7 +52,7 @@
 
 * [x] 毕业实习
   * 跟随重修课程选课
-* [ ] 毕业论文
+* [x] 毕业论文
   * A Naive Bayesian Classifier in Python
     * Train
     * Classifier
