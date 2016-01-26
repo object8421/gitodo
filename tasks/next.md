@@ -17,6 +17,8 @@
   - 查看删除自己的好友
 * 网易蜂巢 https://c.163.com
  - 网易推出的 Docker 容器云，全 SSD，目前充值可得代金券
+* Windyty https://www.windyty.com
+  全球天气查询，超级炫酷
 
 ### 比较看好的公司
 
@@ -25,6 +27,8 @@
   - 从家里到垃圾分解场，一站式解决
 * zuber-合租平台 http://www.zuber.im
   - 致力于解决一线城市找合租室友麻烦的痛点
+* 竞品分析
+  - CompeteHunt http://www.competehunt.com
 
 ### 开发者工具
 
@@ -39,6 +43,12 @@
     - 应用内测专家
   * Fir.im http://fir.im
 * SDK.cn
+* 资讯
+  * Enginered  http://engine.red
+    抓取各大优秀公司的科技博客
+* 移动端
+  * Shotbot http://shotbot.io
+    制作 Appstore 应用介绍截图
 
 ### 工具类应用
 
@@ -110,6 +120,14 @@
 * 色彩
   * ColorFavs http://www.colorfavs.com
     - 从图片生成配色方案
+* 交互设计
+  * Make Me Plus http://www.makemepluse.com
+* UI 素材库
+  * HackingUI http://hackingui.com
+* 字体
+  * Typecache http://typecache.com
+  * Tyoetoken http://www.typetoken.net
+    字体排版案例
 
 ### 电商
 
