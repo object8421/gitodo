@@ -22,6 +22,12 @@
 - 23:30 - 24:00 洗漱，发呆，思考人生
 - 24:00 - 04:00 睡觉 or 出去玩
 
+### 学习
+
+* 公开课
+  - [-] 几何折纸算法理论 http://open.163.com/movie/2010/8/J/J/M95V8ITT1_M9692H4JJ.html
+* 《量子力学》朝永振一郎
+
 ### 项目
 
 * [-] 尽兴体育
@@ -32,7 +38,16 @@
 * [ ] Docker 入门课程
   - 入门课程 http://www.kaikeba.com/kkb/kaikeba/content_video.html?vId=2720#rd
 * [ ] 前端开发
+  - Vue Intro http://blog.evanyou.me/2015/10/25/vuejs-re-introduction/
 * [ ] node.js & javascript 开发
+  - [-] 阮一峰的书籍
+    * [ ] Javascript 标准参考教程
+    * [x] ECMAScript 6 入门
+    * [ ] Node.js 入门
+    * [ ] Javascript 的 HTML5 应用
+    * [ ] Javascript 的 Web 开发入门
+    * [ ] Javacsript 核心语法和标准库
+    * [ ] Javascript 的 DOM 操作与 jQuery 指南
 * [ ] iOS 移动端开发
 * [ ] python 学习
    * [x] Learn python the hard way
@@ -129,6 +144,9 @@
     * [ ] 《物演通论》
   * 文学小说
     * [x] 无声告白
+    * 陀思妥耶夫斯基
+  * 推理小说
+    * 松本清张
   * 西方历史 & 哲学史
     * [-] Altlas Shrugged `打算重读`
   * 金融读物
