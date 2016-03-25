@@ -16,15 +16,15 @@
 ### Development
 
 * [ ] Database
-* [ ] Nearby Topics view
-* [ ] Feeds view
-* [ ] Intergate Wechat
+* [x] Nearby Topics view
+* [x] Feeds view
+* [x] Intergate Wechat
 
 ### Deploy It!
 
 * [ ] Applay Wechat
-* [ ] Setup server
-* [ ] DNS & Policy Correct
+* [x] Setup server
+* [x] DNS & Policy Correct
 * [ ] Site statistics & publish it! :)
 
 ### Project References
