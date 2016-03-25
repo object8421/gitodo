@@ -40,6 +40,7 @@
 * [ ] 前端开发
   - Vue Intro http://blog.evanyou.me/2015/10/25/vuejs-re-introduction/
 * [ ] node.js & javascript 开发
+  - Babel Handbook [Github](https://github.com/thejameskyle/babel-handbook/blob/master/translations/en/README.md)
   - [-] 阮一峰的书籍
     * [ ] Javascript 标准参考教程
     * [x] ECMAScript 6 入门
