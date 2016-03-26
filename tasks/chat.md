@@ -20,7 +20,7 @@
 * [x] Feeds view
 * [x] Intergate Wechat
 * [x] # & @ feature develop
-* [ ] data bind
+* [x] data bind
 
 ### Design
 
