@@ -15,17 +15,18 @@
 
 ### Development
 
-* [ ] Database
+* [x] Database
 * [x] Nearby Topics view
 * [x] Feeds view
 * [x] Intergate Wechat
+* [ ] # & @ feature develop
 
 ### Deploy It!
 
 * [ ] Applay Wechat
 * [x] Setup server
 * [x] DNS & Policy Correct
-* [ ] Site statistics & publish it! :)
+* [x] Site statistics & publish it! :)
 
 ### Project References
 
