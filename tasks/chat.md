@@ -21,6 +21,10 @@
 * [x] Intergate Wechat
 * [ ] # & @ feature develop
 
+### Design
+
+* [ ] User Guide for start Topic & publish message
+
 ### Deploy It!
 
 * [ ] Applay Wechat
