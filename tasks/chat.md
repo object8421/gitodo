@@ -19,7 +19,8 @@
 * [x] Nearby Topics view
 * [x] Feeds view
 * [x] Intergate Wechat
-* [ ] # & @ feature develop
+* [x] # & @ feature develop
+* [ ] data bind
 
 ### Design
 
