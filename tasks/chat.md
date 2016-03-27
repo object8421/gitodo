@@ -10,8 +10,14 @@
 
 ### Product Design
 
-* name
-* feature
+![](http://7xrkvy.dl1.z0.glb.clouddn.com/16-3-27/91855478.jpg)
+
+* [ ] name
+  * 形象化（动物）熊？🐻
+  * 2 ~ 3个字
+  * 读起来说口
+  * 大多数人都不反感
+* [ ] feature
 
 ### Development
 
